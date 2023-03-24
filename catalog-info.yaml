@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: Oracle
   description: The place to be, for great artists
- spec:
+spec:
   type: Database
   lifecycle: Experiment
   owner: aniket
